@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8eafeba8-ae0a-4faa-a3c7-595c07491c8f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60726/WsFreshFlowers.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WsFreshFlowers.disco" MetadataType="Disco" ID="e29b589a-d70f-4128-a6db-d94e1268634d" SourceId="1" SourceUrl="http://localhost:60726/WsFreshFlowers.svc?disco" />
+    <MetadataFile FileName="WsFreshFlowers.xsd" MetadataType="Schema" ID="ccbafef0-3e93-4f3d-af0c-07ddf6048954" SourceId="1" SourceUrl="http://localhost:60726/WsFreshFlowers.svc?xsd=xsd0" />
+    <MetadataFile FileName="WsFreshFlowers.wsdl" MetadataType="Wsdl" ID="327c7810-96a7-43e7-b3d2-3af9233a11cc" SourceId="1" SourceUrl="http://localhost:60726/WsFreshFlowers.svc?wsdl" />
+    <MetadataFile FileName="WsFreshFlowers1.xsd" MetadataType="Schema" ID="3d407987-a170-44c0-9f35-9b6c0f9dc385" SourceId="1" SourceUrl="http://localhost:60726/WsFreshFlowers.svc?xsd=xsd2" />
+    <MetadataFile FileName="WsFreshFlowers2.xsd" MetadataType="Schema" ID="bacb0f41-bf49-4947-9ede-dd7c7c02d341" SourceId="1" SourceUrl="http://localhost:60726/WsFreshFlowers.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
