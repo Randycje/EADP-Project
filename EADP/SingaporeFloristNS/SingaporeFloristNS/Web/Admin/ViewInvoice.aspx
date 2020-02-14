@@ -1,0 +1,69 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ViewInvoice.aspx.cs" Inherits="SingaporeFloristNS.Web.Admin.ViewInvoice" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Invoice</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 994px;
+        }
+
+        .auto-style2 {
+            width: 940px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+           <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Admin</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/Web/Admin/ProductList.aspx">Stocks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Web/Admin/SupplierOrder.aspx">Orders</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Web/Admin/POrdersList.aspx">P Orders</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Web/Admin/Delivery.aspx">Delivery</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Web/Admin/AdminAccount.aspx">Users</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="/Web/Admin/ViewInvoice.aspx">Invoice</a>
+                </li>
+              </ul>
+                <asp:Label ID="lblUser" runat="server"  style="float:left; margin-left:auto;"></asp:Label>
+                <asp:Button ID="btnLogout" class="btn btn-danger" runat="server" Text="Logout" onClick="btnLogout_OnClick" style="float:left; margin-left:auto;"/>
+            </div>
+        </nav>
+        </div>
+        <div>
+            <h1>Invoices</h1>
+            <p>
+
+                <asp:GridView ID="gv_Invoice" runat="server" AutoGenerateColumns="False" DataKeyNames="InvoiceID" OnSelectedIndexChanged="gv_Invoice_SelectedIndexChanged">
+                    <Columns>
+                        <asp:BoundField DataField="InvoiceID" HeaderText="Invoice ID" />
+                        <asp:BoundField DataField="InvoiceDate" HeaderText="Invoice Date" />
+                        <asp:BoundField DataField="InvoiceAmount" HeaderText="Invoice Amount ($)" />
+                        <asp:CommandField SelectText="Make Payment" ShowSelectButton="True" />
+                    </Columns>
+                </asp:GridView>
+    </form>
+    </div>    
+</body>
+</html>

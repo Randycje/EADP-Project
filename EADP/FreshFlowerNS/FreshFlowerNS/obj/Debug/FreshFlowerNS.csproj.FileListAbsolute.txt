@@ -1,0 +1,333 @@
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\cerly\Desktop\cerlyn\Year 2 Sem 2\EAPD\FINAL PROJ\EADP (2)\EADP\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\cerly\Desktop\cerlyn\Year 2 Sem 2\EAPD\FINAL PROJ\EADP (2)\EADP\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\cerly\Desktop\cerlyn\Year 2 Sem 2\EAPD\FINAL PROJ\EADP (2)\EADP\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP - plox\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll.config
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\FreshFlowerNS.pdb
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.dll
+C:\Users\Randy\Desktop\EADP - final\FreshFlowerNS\FreshFlowerNS\obj\Debug\FreshFlowerNS.pdb

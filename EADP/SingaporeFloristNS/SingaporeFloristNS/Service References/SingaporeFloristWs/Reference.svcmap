@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="dc9aafe1-5fa8-4351-80bb-5b6a349f01e4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:63820/SingaporeFloristWS.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SingaporeFloristWS.wsdl" MetadataType="Wsdl" ID="5e3e8edf-1a88-493e-a5f1-30153aa2248d" SourceId="1" SourceUrl="http://localhost:63820/SingaporeFloristWS.svc?wsdl" />
+    <MetadataFile FileName="SingaporeFloristWS.xsd" MetadataType="Schema" ID="805e14f4-c038-4448-939b-cc03ec5c6046" SourceId="1" SourceUrl="http://localhost:63820/SingaporeFloristWS.svc?xsd=xsd1" />
+    <MetadataFile FileName="SingaporeFloristWS1.xsd" MetadataType="Schema" ID="83104534-0613-4d87-9567-a70787ce31a1" SourceId="1" SourceUrl="http://localhost:63820/SingaporeFloristWS.svc?xsd=xsd2" />
+    <MetadataFile FileName="SingaporeFloristWS.disco" MetadataType="Disco" ID="29265074-4dbb-441f-b6d0-f06127807a1a" SourceId="1" SourceUrl="http://localhost:63820/SingaporeFloristWS.svc?disco" />
+    <MetadataFile FileName="SingaporeFloristWS2.xsd" MetadataType="Schema" ID="d44899b4-46bc-4800-be79-51fea477ce3f" SourceId="1" SourceUrl="http://localhost:63820/SingaporeFloristWS.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

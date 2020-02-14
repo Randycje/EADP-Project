@@ -1,0 +1,432 @@
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\FreshFlowers.dll.config
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\FreshFlowers.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\FreshFlowers.pdb
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\obj\Debug\FreshFlowers.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFlorist\FreshFlowers\obj\Debug\FreshFlowers.pdb
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\SingaporeFloristNS.dll.config
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\bin\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP\FreshFlowers\FreshFlowers\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\faris\Documents\AY19S2\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\cerly\Desktop\cerlyn\Year 2 Sem 2\EAPD\FINAL PROJ\EADP (2)\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\cerly\Desktop\cerlyn\Year 2 Sem 2\EAPD\FINAL PROJ\EADP (2)\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\cerly\Desktop\cerlyn\Year 2 Sem 2\EAPD\FINAL PROJ\EADP (2)\EADP\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Dallas\Desktop\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP (3)\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\shery\Downloads\EADP Latest\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shery\Downloads\EADP Latest2\EADP Latest\EADP (3)\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP La-Latest\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\shery\Downloads\EADP -R\EADP -R\EADP\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP - plox\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\ApplicationInsights.config
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\csc.exe
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\vbc.exe
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll.config
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\SingaporeFloristNS.pdb
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.Web.xml
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFlorist.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.dll
+C:\Users\Randy\Desktop\EADP - final\SingaporeFloristNS\SingaporeFloristNS\obj\Debug\SingaporeFloristNS.pdb
